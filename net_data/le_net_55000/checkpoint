@@ -1,0 +1,6 @@
+model_checkpoint_path: "cnn_theta.ckpt"
+all_model_checkpoint_paths: "..\\le_net_35000\\cnn_theta.ckpt"
+all_model_checkpoint_paths: "..\\le_net_40000\\cnn_theta.ckpt"
+all_model_checkpoint_paths: "..\\le_net_45000\\cnn_theta.ckpt"
+all_model_checkpoint_paths: "..\\le_net_50000\\cnn_theta.ckpt"
+all_model_checkpoint_paths: "cnn_theta.ckpt"
